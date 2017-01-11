@@ -1,2 +1,2 @@
 # Neopixels-Snowsparkle
-sorry for "showstrip()" :3
+sorry for "showStrip()" :3
